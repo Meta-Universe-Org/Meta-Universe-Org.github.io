@@ -20,6 +20,6 @@ plugins:
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "G-RFEYSFN287"
 
 exclude: ['package.json', 'src' , 'node_modules']
