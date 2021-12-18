@@ -20,6 +20,6 @@ plugins:
 
 # Google-analytics
 google-analytics:
-  id: "UA-118291642-2"
+  id: "UA-215187932-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
