@@ -22,4 +22,4 @@ plugins:
 google-analytics:
   id: "UA-215187932-1"
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json', 'src' , 'node_modules','vendor']
